@@ -9,11 +9,6 @@ HTTPS clone:
 git clone https://github.com/len-m/zombievival.git
 ```
 
-SSH clone:
-```bash
-git clone git@github.com:len-m/zombievival.git
-```
-
 ## Compiling
 
 To compile the game, SFML needs to be installed. The folder containing SFML needs to be called `SFML-2.5.1` and it needs to be in the root directory.
